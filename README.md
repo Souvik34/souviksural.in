@@ -27,5 +27,5 @@ npm install
 - lint: Runs ESLint to lint the code.
 - preview: Previews the production build.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details
