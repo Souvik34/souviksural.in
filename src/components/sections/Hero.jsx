@@ -10,7 +10,7 @@ import {
   headContentAnimation,
   headTextAnimation,
 } from "../../utils/motion";
-// import StarCanvas from "../canvas/Stars";
+
 
 const HeroContainer = styled.div`
   display: flex;
@@ -54,7 +54,7 @@ const HeroLeftContainer = styled.div`
   }
 `;
 const HeroRightContainer = styled.div`
-  width: 100%;
+  width: 90%;
   order: 2;
   display: flex;
   justify-content: end;
@@ -253,9 +253,9 @@ const Hero = () => {
             </HeroLeftContainer>
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
-                <Tilt>
-                  <Img src= {" "} alt="Rishav Chanda" />
-                </Tilt>
+                
+                  <Img src= {"./img.jpeg"} alt="Souvik Sural" />
+                
               </motion.div>
             </HeroRightContainer>
           </HeroInnerContainer>

@@ -24,13 +24,13 @@ const NavbarContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 1rem;
+  font-size: 1.3rem;
 `;
 const NavLogo = styled(LinkR)`
   width: 80%;
   padding: 0 6px;
-  font-weight: 500;
-  font-size: 18px;
+  font-weight: 800;
+  font-size: 30px;
   text-decoration: none;
   color: inherit;
 `;
@@ -132,7 +132,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">GeeksForGeeks</NavLogo>
+        <NavLogo to="/">Souvik Sural</NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
