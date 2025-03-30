@@ -165,7 +165,7 @@ export const experiences = [
       "TailwindCSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+    
   },
   {
     id: 1,
@@ -184,7 +184,7 @@ export const experiences = [
       " WebSockets",
       " Web3 Wallet Integration"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  
   },
   {
     id: 2,
@@ -207,7 +207,7 @@ export const experiences = [
       "Git",
       "Solidity"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+  
   },
   {
     id: 3,
@@ -216,7 +216,7 @@ export const experiences = [
     company: "Cloud Native Hooghly, CNCF",
     date: "May 2024 - Present",
     desc: "As a Core Member at Cloud Native Hooghly (CNCF), I actively contribute to promoting cloud-native technologies and best practices. My role involves community engagement, organizing events, and sharing knowledge to help developers adopt and implement cloud-native solutions effectively. I am passionate about fostering collaboration and learning within the cloud-native ecosystem.",
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+ 
   },
   {
     id: 4,
