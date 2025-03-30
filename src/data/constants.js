@@ -218,6 +218,7 @@ export const experiences = [
     desc: "As a Core Member at Cloud Native Hooghly (CNCF), I actively contribute to promoting cloud-native technologies and best practices. My role involves community engagement, organizing events, and sharing knowledge to help developers adopt and implement cloud-native solutions effectively. I am passionate about fostering collaboration and learning within the cloud-native ecosystem.",
  
   },
+
   {
     id: 4,
     img: "./exp5.jpg",
@@ -227,6 +228,7 @@ export const experiences = [
     desc: "As a Core Tech Member at Resourcio Community, I contribute to building web projects and assist in organizing events. My role involves developing and optimizing web solutions while actively supporting community initiatives, fostering collaboration, and helping developers enhance their skills through hands-on projects and events.",
    
   },
+
   {
     id: 5,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
@@ -235,6 +237,7 @@ export const experiences = [
     date: "May 2024 - June 2024",
     desc: "Contributed to different open-source projects and learn from industry experts",
   },
+
 ];
 
 export const education = [
@@ -245,7 +248,7 @@ export const education = [
     date: "Sept 2021 - Jul 2025",
     grade: "9.0 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Information Technology at University Institute of Technology, Burdwan. I have completed 7 semesters and have a CGPA of 9.0. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Engineering - BE, Information Tehnology",
+    degree: "Bachelor of Engineering - BE, Information Technology",
   },
   {
     id: 1,
