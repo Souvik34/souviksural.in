@@ -272,22 +272,23 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    id: 0,
+    title: "CUG Management System",
+    date: "May 2024 - June 2024",
+  
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+     "A Closed User Group (CUG) Management System developed using the MERN stack (MongoDB, Express.js, React, Node.js). The system enables users to create, manage, and view CUG groups for discounted or free calls and SMS.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "ReactJS",
+      "NodeJs",
+      "MongoDB",
+      "ExpressJS",
+      "TailwindCSS",
+      "JavaScript",
     ],
-    category: "web app",
+
     github: "https://github.com/rishavchanda/DecisionHub",
     webapp: "https://decisionhub.netlify.app/",
   },
